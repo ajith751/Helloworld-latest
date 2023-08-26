@@ -6,13 +6,13 @@
 <title>Welcome to SBS INDIA BANK</title>
 <style>
   body {
-    background-color: blue;
+    background-color: orange;
   }
 </style>
 </head>
 <body>
 <h1>Welcome to SBS INDIA BANK</h1>
-<p>This is a sample Welcome to HDFCSA BANK application for 2023 July Morrning Batch.</p>
+<p>This is a sample Welcome to SBS BANK application for 2023 July Morrning Batch.</p>
 </body>
 </html>
 
